@@ -4,3 +4,5 @@ Top states and top rated restaurants based on overall score of 3.5 and higher, a
 
 Compiled code between myself and teammates and uploaded. Code contained pre-processing, sorting, SparkDF, and visualization as well as ML code.
 Teammates names removed for privacy
+
+Done via collaboration in Google Colab
